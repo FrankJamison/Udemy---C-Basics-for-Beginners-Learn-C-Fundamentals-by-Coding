@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\bin\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\bin\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\bin\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\bin\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\bin\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\obj\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\obj\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\obj\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\obj\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise3-FindingImageOrientation\obj\Debug\netcoreapp2.1\Exercise3-FindingImageOrientation.pdb
