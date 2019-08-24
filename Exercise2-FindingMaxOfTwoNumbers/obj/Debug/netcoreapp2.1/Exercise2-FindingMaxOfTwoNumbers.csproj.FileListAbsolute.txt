@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\bin\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\bin\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\bin\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\bin\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\bin\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\obj\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\obj\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\obj\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\obj\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\obj\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise2-FindingMaxOfTwoNumbers\obj\Debug\netcoreapp2.1\Exercise2-FindingMaxOfTwoNumbers.pdb
