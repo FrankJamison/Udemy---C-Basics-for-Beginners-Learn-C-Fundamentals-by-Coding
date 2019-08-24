@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise9-FindMaxValueInListOfNumbers", "Exercise9-FindMaxValueInListOfNumbers.csproj", "{AFA5700C-FA5A-4271-B81C-D4DF25FB9C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA5700C-FA5A-4271-B81C-D4DF25FB9C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA5700C-FA5A-4271-B81C-D4DF25FB9C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA5700C-FA5A-4271-B81C-D4DF25FB9C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA5700C-FA5A-4271-B81C-D4DF25FB9C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C43E2EF9-9969-493B-8D11-DEF2B2F02655}
+	EndGlobalSection
+EndGlobal
