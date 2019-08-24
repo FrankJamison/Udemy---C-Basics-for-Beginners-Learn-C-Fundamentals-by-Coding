@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\bin\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\bin\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\bin\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\bin\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\bin\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\obj\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\obj\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\obj\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\obj\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise7-CalculateFactorial\obj\Debug\netcoreapp2.1\Exercise7-CalculateFactorial.pdb
