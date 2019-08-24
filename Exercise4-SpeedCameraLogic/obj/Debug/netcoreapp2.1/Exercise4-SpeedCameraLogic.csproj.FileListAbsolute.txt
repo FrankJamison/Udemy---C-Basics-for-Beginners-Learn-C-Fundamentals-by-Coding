@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\bin\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\bin\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\bin\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\bin\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\bin\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\obj\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\obj\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\obj\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\obj\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise4-SpeedCameraLogic\obj\Debug\netcoreapp2.1\Exercise4-SpeedCameraLogic.pdb
