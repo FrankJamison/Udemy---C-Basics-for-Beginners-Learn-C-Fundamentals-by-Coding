@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\bin\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\bin\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\bin\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\bin\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\bin\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\obj\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\obj\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\obj\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\obj\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise6-CalculateSumOfNumbers\obj\Debug\netcoreapp2.1\Exercise6-CalculateSumOfNumbers.pdb
