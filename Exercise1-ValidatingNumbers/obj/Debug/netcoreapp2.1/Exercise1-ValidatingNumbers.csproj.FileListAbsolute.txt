@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.pdb
