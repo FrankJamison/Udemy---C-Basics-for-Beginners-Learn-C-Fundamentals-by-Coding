@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\bin\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\bin\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\bin\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\bin\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\bin\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\obj\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\obj\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\obj\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\obj\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise5-CountNumbersDivisibleBy3\obj\Debug\netcoreapp2.1\Exercise5-CountNumbersDivisibleBy3.pdb
