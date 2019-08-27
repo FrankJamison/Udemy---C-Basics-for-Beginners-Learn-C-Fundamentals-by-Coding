@@ -41,22 +41,28 @@ namespace Exercise10_FacebookLikes
                 }
             }
 
-            // If only one person likes your post, display: [Friend's Name] likes your post.
-            if (friends.Count == 1)
+            // If more than two people like the post, display: [Friend 1], [Friend 2] and [Number of Other People] others like your post.
+            if (friends.Count > 2)
             {
-                Console.WriteLine(friends[0] + " likes your post.");
+                Console.WriteLine("{0}, {1} and {2} others like your post.", friends[0], friends[1], (friends.Count - 2));
             }
-            
+
             // Else if two people like your post, display: [Friend 1] and [Friend 2] like your post.
             else if (friends.Count == 2)
             {
-                Console.WriteLine(friends[0] + " and " + friends[1] + " like your post.");
+                Console.WriteLine("{0} and {1} like your post.", friends[0], friends[1]);
             }
 
-            // Else if more than two people like your post, display: [Friend 1], [Friend 2] and [Number of Other People] others like your post.
-            else if (friends.Count > 2)
+            // Else if only one person likes your post, display: [Friend's Name] likes your post.
+            if (friends.Count == 1)
             {
-                Console.WriteLine(friends[0] + ", " + friends[1] + " and " + (friends.Count - 2) + " others like your post.");
+                Console.WriteLine("{0} likes your post.", friends[0]);
+            }
+
+            // Else If no one likes your post, don't display anything.
+            else
+            {
+                Console.WriteLine();
             }
         }
     }
