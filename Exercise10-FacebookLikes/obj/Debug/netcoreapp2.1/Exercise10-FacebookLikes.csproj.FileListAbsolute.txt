@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\obj\Debug\netcoreapp2.1\Exercise10-FacebookLikes.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\obj\Debug\netcoreapp2.1\Exercise10-FacebookLikes.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\obj\Debug\netcoreapp2.1\Exercise10-FacebookLikes.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\obj\Debug\netcoreapp2.1\Exercise10-FacebookLikes.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\bin\Debug\netcoreapp2.1\Exercise10-FacebookLikes.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\bin\Debug\netcoreapp2.1\Exercise10-FacebookLikes.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\bin\Debug\netcoreapp2.1\Exercise10-FacebookLikes.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\bin\Debug\netcoreapp2.1\Exercise10-FacebookLikes.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\bin\Debug\netcoreapp2.1\Exercise10-FacebookLikes.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\obj\Debug\netcoreapp2.1\Exercise10-FacebookLikes.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise10-FacebookLikes\obj\Debug\netcoreapp2.1\Exercise10-FacebookLikes.pdb
