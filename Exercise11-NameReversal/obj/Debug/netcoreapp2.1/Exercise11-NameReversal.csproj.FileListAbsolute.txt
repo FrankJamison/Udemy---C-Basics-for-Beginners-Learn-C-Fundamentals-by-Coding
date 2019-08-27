@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\bin\Debug\netcoreapp2.1\Exercise11-NameReversal.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\bin\Debug\netcoreapp2.1\Exercise11-NameReversal.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\bin\Debug\netcoreapp2.1\Exercise11-NameReversal.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\bin\Debug\netcoreapp2.1\Exercise11-NameReversal.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\bin\Debug\netcoreapp2.1\Exercise11-NameReversal.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\obj\Debug\netcoreapp2.1\Exercise11-NameReversal.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\obj\Debug\netcoreapp2.1\Exercise11-NameReversal.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\obj\Debug\netcoreapp2.1\Exercise11-NameReversal.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\obj\Debug\netcoreapp2.1\Exercise11-NameReversal.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\obj\Debug\netcoreapp2.1\Exercise11-NameReversal.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise11-NameReversal\obj\Debug\netcoreapp2.1\Exercise11-NameReversal.pdb
