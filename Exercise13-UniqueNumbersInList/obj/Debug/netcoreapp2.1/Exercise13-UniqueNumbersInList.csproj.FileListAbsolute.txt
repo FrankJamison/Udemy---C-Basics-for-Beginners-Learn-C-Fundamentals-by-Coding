@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\bin\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\bin\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\bin\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\bin\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\bin\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\obj\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\obj\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\obj\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\obj\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\obj\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise13-UniqueNumbersInList\obj\Debug\netcoreapp2.1\Exercise13-UniqueNumbersInList.pdb
