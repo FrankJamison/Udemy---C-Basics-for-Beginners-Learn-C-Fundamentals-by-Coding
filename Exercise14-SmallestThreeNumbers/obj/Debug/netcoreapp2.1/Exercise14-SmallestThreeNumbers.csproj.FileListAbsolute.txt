@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\bin\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\bin\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\bin\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\bin\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\bin\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\obj\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\obj\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\obj\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\obj\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\obj\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise14-SmallestThreeNumbers\obj\Debug\netcoreapp2.1\Exercise14-SmallestThreeNumbers.pdb
