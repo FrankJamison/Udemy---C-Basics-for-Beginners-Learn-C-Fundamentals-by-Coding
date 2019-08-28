@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\obj\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\obj\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\obj\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\obj\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\bin\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\bin\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\bin\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\bin\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\bin\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\obj\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise12-UniqueNumbers\obj\Debug\netcoreapp2.1\Exercise12-UniqueNumbers.pdb
