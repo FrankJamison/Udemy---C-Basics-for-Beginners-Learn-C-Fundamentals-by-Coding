@@ -24,10 +24,10 @@ namespace Exercise12_UniqueNumbers
                 var number = Convert.ToInt32(Console.ReadLine());
 
                 // If the entered number is not unique, display error and prompt for new number.
-                while (numbers.IndexOf(number) >= 0)
+                if (numbers.Contains(number))
                 {
-                    Console.WriteLine(number + "has already been entered. Please enter a unique number: ");
-                    number = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine(number + " has already been entered.");
+                    continue;
                 }
 
                 // Add number to list of numbers
@@ -38,6 +38,8 @@ namespace Exercise12_UniqueNumbers
             numbers.Sort();
 
             // Display the sorted list
+            Console.WriteLine();
+
             foreach (int number in numbers)
             {
                 Console.WriteLine(number);
