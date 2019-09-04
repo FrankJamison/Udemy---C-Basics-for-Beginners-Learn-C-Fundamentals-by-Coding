@@ -17,11 +17,15 @@ namespace Exercise17_ValidTimeCheck
             Console.WriteLine("Please enter a time in military format (HH:MM): ");
             var input = Console.ReadLine();
 
+            Console.WriteLine(validateTime(input));
+        }
+        
+        public static string validateTime(string input)
+        {
             // If null or empty, display invalid time
             if (String.IsNullOrEmpty(input))
             {
-                Console.WriteLine("Invalid Time");
-                return;
+                return "Invalid Time";
             }
 
             // Split time into components
@@ -30,8 +34,7 @@ namespace Exercise17_ValidTimeCheck
             // If there are more than 2 components, display invalid time
             if (timeComponents.Length > 2)
             {
-                Console.WriteLine("Invalid Time");
-                return;
+                return "Invalid Time";
             }
 
             try
@@ -42,22 +45,18 @@ namespace Exercise17_ValidTimeCheck
 
                 if (hours >= 0 && hours < 24 && minutes >= 0 && minutes < 60)
                 {
-                    Console.WriteLine("OK");
+                    return "OK";
                 }
                 else
                 {
-                    Console.WriteLine("Invalid Time");
+                    return "Invalid Time";
                 }
             }
 
             catch (Exception)
             {
-                Console.WriteLine("Invalid Time");
+                return "Invalid Time";
             }
-
-            
-
-
-        } 
+        }
     }
 }
