@@ -18,9 +18,6 @@ namespace Exercise18_PascalCase
             Console.WriteLine("Please enter a series of words separated by spaces: ");
             var input = Console.ReadLine();
 
-            // Convert string to lower case
-            var lowercaseInput = input.ToLower();
-
             // Convert to lowercase and slit String
             var words = input.ToLower().Split(' ');
 
