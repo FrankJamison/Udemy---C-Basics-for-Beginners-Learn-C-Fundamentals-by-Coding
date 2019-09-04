@@ -24,6 +24,14 @@ namespace Exercise15_DuplicateNumbersTest
                 return;
             }
 
+            if (HasDuplicateNumbers(input))
+            {
+                Console.WriteLine("Duplicates");
+            }
+        }
+
+        public static bool HasDuplicateNumbers(string input)
+        {
             // Create a list for the numbers
             var numbers = new List<int>();
 
@@ -35,23 +43,16 @@ namespace Exercise15_DuplicateNumbersTest
             // Sort the numbers
             numbers.Sort();
 
-            // Flag for duplicates
-            var hasDuplcates = false;
-
             // Check for duplicates
             for (var ii = 1; ii < numbers.Count; ii++)
             {
                 if (numbers[ii] == numbers[ii - 1])
                 {
-                    hasDuplcates = true;
-                    break;
+                    return true;
                 }
             }
 
-            if (hasDuplcates)
-            {
-                Console.WriteLine("Duplicates");
-            }
+            return false;
         }
     }
 }
