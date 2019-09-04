@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Exercise19_CountVowels
 {
@@ -14,7 +15,7 @@ namespace Exercise19_CountVowels
         {
             // Get input from the user
             Console.WriteLine("Please enter a word: ");
-            var input = Console.ReadLine();
+            var input = Console.ReadLine().ToLower();
 
             // Check for null or whitespace
             if (String.IsNullOrWhiteSpace(input))
@@ -23,17 +24,18 @@ namespace Exercise19_CountVowels
                 return;
             }
 
+            // Create a list from a char array with vowels
+            var vowels = new List<char>(new char[] { 'a', 'e', 'i', 'o', 'u' });
+
             // Vowel Count
             var vowelCount = 0;
 
-            foreach (var letter in input.ToLower())
+            foreach (var character in input)
             {
-                if (letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u')
-                {
+                if (vowels.Contains(character))
                     vowelCount++;
-                }
             }
-
+            
             // Display vowel count
             Console.WriteLine(vowelCount);
         }

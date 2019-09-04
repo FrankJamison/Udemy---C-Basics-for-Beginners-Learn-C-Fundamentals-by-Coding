@@ -8,3 +8,13 @@ C:\OneDrive\Documents\GitHub\Programs\Exercise19-CountVowels\obj\Debug\netcoreap
 C:\OneDrive\Documents\GitHub\Programs\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.AssemblyInfo.cs
 C:\OneDrive\Documents\GitHub\Programs\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.dll
 C:\OneDrive\Documents\GitHub\Programs\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\bin\Debug\netcoreapp2.1\Exercise19-CountVowels.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\bin\Debug\netcoreapp2.1\Exercise19-CountVowels.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\bin\Debug\netcoreapp2.1\Exercise19-CountVowels.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\bin\Debug\netcoreapp2.1\Exercise19-CountVowels.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\bin\Debug\netcoreapp2.1\Exercise19-CountVowels.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise19-CountVowels\obj\Debug\netcoreapp2.1\Exercise19-CountVowels.pdb
