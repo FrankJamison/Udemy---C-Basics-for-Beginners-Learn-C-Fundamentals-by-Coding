@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\bin\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\bin\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\bin\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\bin\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\bin\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\obj\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\obj\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\obj\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\obj\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\obj\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise17-ValidTimeCheck\obj\Debug\netcoreapp2.1\Exercise17-ValidTimeCheck.pdb
