@@ -18,11 +18,16 @@ namespace Exercise18_PascalCase
             Console.WriteLine("Please enter a series of words separated by spaces: ");
             var input = Console.ReadLine();
 
-            // Display error if no input
+            // Display variable name
+            Console.WriteLine(ConvertToPascalCase(input));
+        }
+
+        public static string ConvertToPascalCase(string input)
+        {
+            // Return error if no input
             if (String.IsNullOrWhiteSpace(input))
             {
-                Console.WriteLine("Error");
-                return;
+                return "Error";
             }
 
             // Create PascalCase variable name
@@ -34,8 +39,7 @@ namespace Exercise18_PascalCase
                 variableName += wordWithPascalCase;
             }
 
-            // Display variable name
-            Console.WriteLine(variableName);
+            return variableName;
         }
     }
 }
