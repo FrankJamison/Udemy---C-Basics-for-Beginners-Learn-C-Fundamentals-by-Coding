@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Exercise15_ConsecutiveNumberTest
 {
@@ -17,17 +18,35 @@ namespace Exercise15_ConsecutiveNumberTest
             Console.WriteLine("Please enter a series of numbers separated by dashes (-): ");
             var input = Console.ReadLine();
 
-            // Split input at dashes
-            var numbers = input.Split("-");
+            // Create list of numbers from input
+            var numbers = new List<int>();
 
-            // Determine if numbers are consecutive
-            if (NumberMethods.consecutiveNumbers(numbers, "increasing") || NumberMethods.consecutiveNumbers(numbers, "decreasing")) {
-                Console.WriteLine("Consecutive");
-            }
-            else
+            foreach (var number in input.Split('-'))
             {
-                Console.WriteLine("Not Consecutive");
+                numbers.Add(Convert.ToInt32(number));
             }
+
+            // Sort numbers
+            numbers.Sort();
+
+            // Consecutive Numbers Flag
+            var isConsecutive = true;
+
+            // Check for consecutive numbers
+            for (var ii = 1; ii < numbers.Count; ii++)
+            {
+                if(numbers[ii] != numbers[ii-1] + 1)
+                {
+                    isConsecutive = false;
+                    break;
+                }
+            }
+
+            // Generate Message
+            var message = isConsecutive ? "Consecutive" : "Not Consecutive";
+
+            // Display Message
+            Console.WriteLine(message);
         }
     }
 }
