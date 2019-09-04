@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\bin\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\bin\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\bin\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\bin\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\bin\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\obj\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\obj\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\obj\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\obj\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise16-DuplicateNumbers Test\obj\Debug\netcoreapp2.1\Exercise16-DuplicateNumbers Test.pdb
