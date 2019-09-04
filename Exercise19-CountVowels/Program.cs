@@ -17,13 +17,12 @@ namespace Exercise19_CountVowels
             Console.WriteLine("Please enter a word: ");
             var input = Console.ReadLine().ToLower();
 
-            // Check for null or whitespace
-            if (String.IsNullOrWhiteSpace(input))
-            {
-                Console.WriteLine("Error");
-                return;
-            }
+            // Display vowel count
+            Console.WriteLine(VowelCount(input));
+        }
 
+        public static int VowelCount(string input)
+        {
             // Create a list from a char array with vowels
             var vowels = new List<char>(new char[] { 'a', 'e', 'i', 'o', 'u' });
 
@@ -35,9 +34,8 @@ namespace Exercise19_CountVowels
                 if (vowels.Contains(character))
                     vowelCount++;
             }
-            
-            // Display vowel count
-            Console.WriteLine(vowelCount);
+
+            return vowelCount;
         }
     }
 }
