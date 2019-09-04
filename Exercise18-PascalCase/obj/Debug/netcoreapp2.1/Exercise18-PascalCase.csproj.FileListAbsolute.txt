@@ -1,0 +1,11 @@
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\bin\Debug\netcoreapp2.1\Exercise18-PascalCase.deps.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\bin\Debug\netcoreapp2.1\Exercise18-PascalCase.runtimeconfig.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\bin\Debug\netcoreapp2.1\Exercise18-PascalCase.runtimeconfig.dev.json
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\bin\Debug\netcoreapp2.1\Exercise18-PascalCase.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\bin\Debug\netcoreapp2.1\Exercise18-PascalCase.pdb
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\obj\Debug\netcoreapp2.1\Exercise18-PascalCase.csprojAssemblyReference.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\obj\Debug\netcoreapp2.1\Exercise18-PascalCase.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\obj\Debug\netcoreapp2.1\Exercise18-PascalCase.AssemblyInfoInputs.cache
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\obj\Debug\netcoreapp2.1\Exercise18-PascalCase.AssemblyInfo.cs
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\obj\Debug\netcoreapp2.1\Exercise18-PascalCase.dll
+C:\OneDrive\Documents\GitHub\Programs\C#\Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding\Exercise18-PascalCase\obj\Debug\netcoreapp2.1\Exercise18-PascalCase.pdb
