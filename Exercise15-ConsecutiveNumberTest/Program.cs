@@ -18,6 +18,17 @@ namespace Exercise15_ConsecutiveNumberTest
             Console.WriteLine("Please enter a series of numbers separated by dashes (-): ");
             var input = Console.ReadLine();
 
+            var isConsecutive = HasConsecutiveNumbers(input);
+
+            // Generate Message
+            var message = isConsecutive ? "Consecutive" : "Not Consecutive";
+
+            // Display Message
+            Console.WriteLine(message);
+        }
+
+        public static bool HasConsecutiveNumbers (string input)
+        {
             // Create list of numbers from input
             var numbers = new List<int>();
 
@@ -29,24 +40,16 @@ namespace Exercise15_ConsecutiveNumberTest
             // Sort numbers
             numbers.Sort();
 
-            // Consecutive Numbers Flag
-            var isConsecutive = true;
-
             // Check for consecutive numbers
             for (var ii = 1; ii < numbers.Count; ii++)
             {
-                if(numbers[ii] != numbers[ii-1] + 1)
+                if (numbers[ii] != numbers[ii - 1] + 1)
                 {
-                    isConsecutive = false;
-                    break;
+                    return false;
                 }
             }
 
-            // Generate Message
-            var message = isConsecutive ? "Consecutive" : "Not Consecutive";
-
-            // Display Message
-            Console.WriteLine(message);
+            return true;
         }
     }
 }
