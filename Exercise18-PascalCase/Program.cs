@@ -18,18 +18,20 @@ namespace Exercise18_PascalCase
             Console.WriteLine("Please enter a series of words separated by spaces: ");
             var input = Console.ReadLine();
 
-            // Convert to lowercase and slit String
-            var words = input.ToLower().Split(' ');
-
-            // Create new variable name
-            StringBuilder variableName = new StringBuilder();
-
-            // Capitalize first letter in each element
-            for (var ii = 0; ii < words.Length; ii++)
+            // Display error if no input
+            if (String.IsNullOrWhiteSpace(input))
             {
-                char[] wordArray = words[ii].ToCharArray();
-                wordArray[0] = char.ToUpper(wordArray[0]);
-                variableName.Append(new string(wordArray));
+                Console.WriteLine("Error");
+                return;
+            }
+
+            // Create PascalCase variable name
+            var variableName = "";
+
+            foreach (var word in input.Split(' '))
+            {
+                var wordWithPascalCase = char.ToUpper(word[0]) + word.ToLower().Substring(1);
+                variableName += wordWithPascalCase;
             }
 
             // Display variable name
